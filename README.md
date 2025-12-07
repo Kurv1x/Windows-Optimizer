@@ -16,4 +16,4 @@ The author of this file cannot be held responsible or liable for any damages tha
 4. Press the Number (#) for the Optimization you want, and click Enter
 
 # 📜 License
-This optimizer is Licensed under the [MIT License](https://opensource.org/licenses/MIT)
+This optimizer is licensed under the [MIT License](https://opensource.org/licenses/MIT)
